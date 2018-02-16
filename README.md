@@ -17,8 +17,8 @@
 >>   * Cuenta GitHub: Sryiwen <br/>
 >>   
 >> **xxxxxxxxx**<br/>
->>   * Email:	xxxxxxxxxx@alumnos.urjc.es<br/>
->>   * Cuenta GitHub: xxxxxxx <br/>
+>>   * Email:	jm.callejas@alumnos.urjc.es<br/>
+>>   * Cuenta GitHub: josetecallejas <br/>
 >>   
 >> **Yasmin Shekh Liébana**<br/>
 >>  * Email: y.shekh@alumnos.urjc.es <br/>
