@@ -7,16 +7,15 @@
 >
 > ## Nombre y descripción de cada entidad
 > **Producto:** esta entidad nos mostrará todos los datos relacionados con el producto, así como: nombre, descripción, precio, imagen, número de serie y marca.<br/>
-> **Categoría:** en esta entidad aparecerán las distintas categorías o familias de cada artículo como por ejemplo: Placa Base, Almacenamiento, Memoria, Procesadores, Tarjetas gráficas etc.<br/>
->**Usuario:** en esta entidad aparecerán los datos relativos a los usuarios registrados en la aplicación como el nombre, apellidos, email, teléfono, etc.<br/>
-> **Pedidos:** en esta entidad guardaremos todas las compras realizadas por un usuario, incluiran campos como: Artículo, Descripción, fecha de la compra, fecha estimada de recepción.<br/>
+> **Usuario:** en esta entidad aparecerán los datos relativos a los usuarios registrados en la aplicación como el DNI, nombre, apellidos, email, teléfono, login y password.<br/>
+> **Administrador:** esta entidad se encargará de validar los usuarios, así como, dar de alta y baja los diferentes productos de nuestra tienda.<br/>
 > 
 >> ## Integrantes del equipo de desarrollo:
 >> **Roberto Jiménez Pulgar**<br/>
 >>   * Email: r.jimenezpu@alumnos.urjc.es<br/>
 >>   * Cuenta GitHub: Sryiwen <br/>
 >>   
->> **xxxxxxxxx**<br/>
+>> **José María Callejas Sánchez**<br/>
 >>   * Email:	jm.callejas@alumnos.urjc.es<br/>
 >>   * Cuenta GitHub: josetecallejas <br/>
 >>   
